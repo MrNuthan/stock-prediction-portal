@@ -1,0 +1,13 @@
+Django==5.0.6
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+python-decouple
+
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+keras
+tensorflow
